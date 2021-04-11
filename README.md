@@ -66,4 +66,4 @@ The goal of this project is to use machiene learning to create a logistic regres
 ![image](https://user-images.githubusercontent.com/75647359/114325111-0c0fec80-9af4-11eb-9c23-a4f97b3e8728.png)
 
 ## Summary 
-To get the most accurate model, one would want to choose the Easy Ensemble Adaboost Classifier. It has the highest accuracy score of 94%. 
+Every algorithm shows weak precision when determining if an applicant is high or low risk. While the Ensemble Learning Adaboost method has the highest accuracy score, but when it comes predicting high or low risk, 979 applicants are considered high risk when they are actually low risk. Running this algorithm would miss out on tons of low risk opportunites for banks to invest in. I would not recommend using any of these algorithms. 

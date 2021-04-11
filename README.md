@@ -7,11 +7,19 @@ The goal of this project is to use machiene learning to create a logistic regres
 
 ### Naive Random Oversamping 
 
+-Balanced Accuracy Score: 64.4%
+-Precision: 99%
+-Recall: 67%
+
 ![naive_random_oversampling](https://user-images.githubusercontent.com/75647359/114324847-2c3eac00-9af2-11eb-8e35-33fdd41f0f5f.PNG)
 
 ![image](https://user-images.githubusercontent.com/75647359/114325208-7aed4580-9af4-11eb-943d-038af0220ce3.png)
 
 ### SMOTE Oversampling 
+
+-Balanced Accuracy Score: 64.8%
+-Precision: 99%
+-Recall: 64%
 
 ![smote_oversampling](https://user-images.githubusercontent.com/75647359/114324908-98211480-9af2-11eb-8062-4302196d7626.PNG)
 
@@ -19,11 +27,19 @@ The goal of this project is to use machiene learning to create a logistic regres
 
 ### Undersampling 
 
+-Balanced Accuracy Score: 51%
+-Precision: 99%
+-Recall: 58%
+
 ![undersampling](https://user-images.githubusercontent.com/75647359/114324912-9eaf8c00-9af2-11eb-8154-a81c41bd5acb.PNG)
 
 ![image](https://user-images.githubusercontent.com/75647359/114325310-fea73200-9af4-11eb-832e-166b43309553.png)
 
 ### Combination (Over and Under) Sampling 
+
+-Balanced Accuracy Score: 63.6%
+-Precision: 99%
+-Recall: 58%
 
 ![combination](https://user-images.githubusercontent.com/75647359/114324921-a66f3080-9af2-11eb-80ee-8e333eebf3da.PNG)
 
@@ -31,11 +47,19 @@ The goal of this project is to use machiene learning to create a logistic regres
 
 ### Balanced Random Forest Classifier 
 
+-Balanced Accuracy Score: 78.7%
+-Precision: 99%
+-Recall: 58%
+
 ![balanced_random_forest_classifier](https://user-images.githubusercontent.com/75647359/114324978-0cf44e80-9af3-11eb-8af2-955e722f614b.PNG)
 
 ![image](https://user-images.githubusercontent.com/75647359/114325155-38c40400-9af4-11eb-8394-7f63faf77c08.png)
 
 ### Easy Ensemble Adaboost Classifier 
+
+-Balanced Accuracy Score: 94.3%
+-Precision: 99%
+-Recall: 94%
 
 ![adaboost_classifier](https://user-images.githubusercontent.com/75647359/114324970-05cd4080-9af3-11eb-9416-d1d5a15febcc.PNG)
 

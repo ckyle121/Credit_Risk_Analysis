@@ -29,4 +29,7 @@ The goal of this project is to use machiene learning to create a logistic regres
 
 ![adaboost_classifier](https://user-images.githubusercontent.com/75647359/114324970-05cd4080-9af3-11eb-9416-d1d5a15febcc.PNG)
 
+![image](https://user-images.githubusercontent.com/75647359/114325111-0c0fec80-9af4-11eb-9c23-a4f97b3e8728.png)
+
 ## Summary 
+To get the most accurate model, one would want to choose the Easy Ensemble Adaboost Classifier. It has the highest accuracy score of 94%. 
